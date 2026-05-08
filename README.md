@@ -7,4 +7,7 @@ Arsenic
 - Apprendre Git
 - Comprendre GitHub
 - Utiliser SSH
-- Maîtriser les push/pull# AsTest
+- Maîtriser les push/pull
+## Cybersecurity
+- Apprendre le Base
+- Metasploit
